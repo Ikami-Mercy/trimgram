@@ -1,0 +1,18 @@
+# FastAPI and server
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+
+# Pydantic for models and settings
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Instagram integration
+instagrapi==2.1.2
+
+# Python standard library (no install needed, just documenting)
+# - threading (built-in)
+# - logging (built-in)
+# - datetime (built-in)
+# - uuid (built-in)
+# - time (built-in)
